@@ -8,8 +8,10 @@
 
 - 🌱 Currently learning / Estudando atualmente: **Spring, Angular & Docker**
 
+<!--
 ##
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquebaesa&show_icons=true&locale=en&theme=dark" alt="henriquebaesa" /></p>
+-->
 
 
 ## Hire me! / Me contrate!
