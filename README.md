@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Henrique Baesa</h1>
-<h3 align="center">A Software Development Student @ IFSP!</h3>
+<h3 align="center">A Software Engineering Student @ IFSP!</h3>
 
 ![Snake animation](https://github.com/HenriqueBaesa/HenriqueBaesa/blob/output/github-contribution-grid-snake.svg)
 
